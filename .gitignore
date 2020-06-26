@@ -1,2 +1,9 @@
-#IDE
+# # NPM
+package-lock.json
+dist/
+
+# IntelliJ IDE
 .idea/*
+
+# Dependency directories
+node_modules/
