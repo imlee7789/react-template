@@ -18,8 +18,16 @@
   },
   "homepage": "https://github.com/imlee7789/react-template#readme",
   "devDependencies": {
+    "css-loader": "^3.6.0",
+    "csv-loader": "^3.0.3",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "file-loader": "^6.0.0",
+    "prettier": "^2.0.5",
+    "style-loader": "^1.2.1",
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^3.3.12",
+    "xml-loader": "^1.2.1"
   },
   "dependencies": {
     "lodash": "^4.17.15"
